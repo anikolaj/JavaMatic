@@ -6,4 +6,5 @@ and running the command `java -jar JavaMatic.jar` <br />
 <br />
 Source code for the JavaMatic implemenation is stored in the javamatic package. <br />
 test is a package containing a variety of JUnit 5 test cases. <br />
+<br />
 Developed by Andrew Nikolajuk
